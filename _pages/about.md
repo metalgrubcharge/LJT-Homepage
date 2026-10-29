@@ -52,7 +52,7 @@ First-author papers are marked with **(first author)**.
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations**
    Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He. *NeurIPS 2023.*
 
-More details about my publications can be found on the [Publications](/publications/) page.
+More details about my publications can be found on the [Publications]({{ '/publications/' | relative_url }}) page.
 
 ## Awards
 
